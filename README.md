@@ -39,20 +39,3 @@ We leverage the power of the OpenAI API to enable dynamic question generation an
 
 
 
-# Contributors
-
-#### Veerangana Malav
-
-> Github: [VeeranganaMalav](https://github.com/VeeranganaMalav) 
-
-#### Suraj Deosarkar
-> Github: [Suraj12398](https://github.com/Suraj12398)
-
-#### Ajit Kumar Roy
-> Github: [Ajitroy01](https://github.com/Ajitroy01)
-
-#### Md Abdul Qadir
-> Github: [Md-abdul](https://github.com/Md-abdul)
-
-#### Shivam Kumar Jha
-> Github: [Shivam6209](https://github.com/Shivam6209)
